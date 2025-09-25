@@ -6,3 +6,5 @@ For now it does not store any kind of data as you leave the connection all the c
 
 In future I have decided to shift to BLE(bluetooth low energy)that would save power
 and decided to some basic feature of chatting appliction.
+
+The major issue with this is the range I will try to tackle that issue in my further updates
